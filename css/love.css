@@ -118,7 +118,7 @@ li{
 	left: 0;
 	top: 0;
 	opacity: 0.08;
-	-webkit-transition:all 1.45s ease;
+	-webkit-transition:all 1.3s ease;
 }
 .maxbox li:nth-child(1){
 	-webkit-transform:translateZ(100px);
